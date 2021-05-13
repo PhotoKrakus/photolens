@@ -83,31 +83,6 @@ sftp-config.json
 *.url
 *~
 
-### images
-*.gif
-*.ico
-*.png
-*.jpeg
-*.jpg
-
-**img
-**images
-**pic
-
-img
-img/
-img/**/*
-
-images/
-images/**/*
-
-### fonts
-**fonts
-fonts
-fonts/**/*
-
-assets/fonts/
-assets/fonts/**/*
 
 ### Folders to ignore Yeoman
 bower_components/**/*
