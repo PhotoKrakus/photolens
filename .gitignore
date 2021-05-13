@@ -57,33 +57,6 @@ _*
 .htaccess
 sftp-config.json
 
-### Numerous always-ignore extensions
-*.diff
-*.dmg
-*.err
-*.gz
-*.log
-*.orig
-*.rej
-*.swo
-*.swp
-*.7z
-*.iso
-*.rar
-*.zip
-*.jar
-*.swp
-*.swo
-*.svg
-*.tar
-*.eot
-*.ttf
-*.woff
-*.woff2
-*.url
-*~
-
-
 ### Folders to ignore Yeoman
 bower_components/**/*
 **build
