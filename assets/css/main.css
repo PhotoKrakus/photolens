@@ -289,7 +289,7 @@ h4 {
 }
 
 h5 {
-  font-size: 0.9rem;
+  font: 700 1.2em/1.5 "Open Sans", "Segoe UI", Verdana, Calibri, sans-serif;
 }
 
 h6 {
